@@ -1,4 +1,8 @@
-### Hi there 👋
+👋 Hello, I'm Teemu Malo
+#
+📚 Currently studying ICT at Oulu University of Applied Sciences
+#
+📫 How to reach me t1mate00@students.oamk.fi
 
 <!--
 **TeemuMalo/TeemumALO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
